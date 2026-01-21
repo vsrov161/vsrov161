@@ -4,7 +4,8 @@ Passionate about building apps for astronomy and aviation enthusiasts. Currently
 
 ### 🛠️ Tech stack:
 **Swift** • **UIKit** • **AppKit** • **Core Data** • **SnapLit** • **REST APIs** • **Git**
-🚀 Looking for: **Junior** **iOS** roles in **RU** / remote **Worldwide**, **startups** welcomes!
+
+### 🚀 Looking for: **Junior** **iOS** roles in **RU** / remote **Worldwide**, **startups** welcomes!
 📫 vicsergeevrov@icloud.com | Telegram @vsrov
 
 <!---
