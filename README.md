@@ -1,6 +1,6 @@
 ### iOS Developer (Swift) • Rostov-on-Don, RU
-👋 Hi, I'm Vic — former aviation ground operations specialist turned iOS developer.
-Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in UIKit, AppKit, and integrating APIs for real-world data.
+👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned iOS developer.
+Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in UIKit, AppKit, deep diving into CoreData learning and integrating APIs for real-world data.
 
 ### 🛠️ Tech stack:
 **Swift** • **UIKit** • **AppKit** • **SnapKit** • **REST APIs** • **Git**
