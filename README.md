@@ -1,11 +1,11 @@
-### iOS Developer (Swift) • Rostov-on-Don, RU
-👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned iOS developer.
-Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in UIKit, AppKit, deep diving into CoreData learning and integrating APIs for real-world data.
+### Java trainee (back-end/desktop) • Rostov-on-Don, RU
+👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned Java developer.
+Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in Java Core, JFC, Hibernate/JPA, deep diving into Spring Framework learning.
 
 ### 🛠️ Tech stack:
-**Swift** • **UIKit** • **AppKit** • **SnapKit** • **REST APIs** • **Git**
+**Java 17+** • **Maven** • **Hibernate** • **JMS** • **Git**
 
-### 🚀 Looking for: **Junior** **iOS** roles in **RU** / remote **Worldwide**, **startups** welcomes!
+### 🚀 Looking for: Java **Junior**/**Trainee** roles in **RU** / remote **Worldwide**, **startups** welcomes!
 📫 vicsergeevrov@icloud.com | Telegram @vs_rov
 
 <!---
