@@ -3,7 +3,7 @@
 Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in Java Core, JFC, Hibernate/JPA, deep diving into Spring Framework learning.
 
 ### 🛠️ Tech stack:
-**Java 17+** • **Maven** • **Hibernate** • **JMS** • **Git**
+**Java 17+** • **Maven** • **SQL(MySQL/PostgreSQL)** • **Hibernate** • **JMS** • **Git**
 
 ### 🚀 Looking for: Java **Junior**/**Trainee** roles in **RU** / remote **Worldwide**, **startups** welcomes!
 📫 vicsergeevrov@icloud.com | Telegram @vs_rov
