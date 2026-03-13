@@ -5,7 +5,7 @@ Passionate about building apps for astronomy and aviation enthusiasts. Currently
 ### 🛠️ Tech stack:
 **Java 17+** • **Maven** • **SQL(MySQL/PostgreSQL)** • **Hibernate** • **JMS** • **Git**
 
-### 🚀 Looking for: Java **Junior**/**Trainee** roles in **RU** / remote **Worldwide**, **startups** welcomes!
+### 🚀 Looking for: Java **Junior**/**Intern** roles in **RU** / remote **Worldwide**, **startups** welcomes!
 📫 vicsergeevrov@icloud.com | Telegram @vs_rov
 
 <!---
