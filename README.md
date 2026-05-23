@@ -1,11 +1,7 @@
-### Java trainee (back-end/desktop) • Rostov-on-Don, RU
-👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned Java developer.
-Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in Java Core, JFC, Hibernate/JPA, deep diving into Spring Framework learning.
+### Coder • Rostov-on-Don, RU
+👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned developer.
+Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in Golang.
 
-### 🛠️ Tech stack:
-**Java 17+** • **Maven** • **SQL(MySQL/PostgreSQL)** • **Hibernate** • **JMS** • **Git**
-
-### 🚀 Looking for: Java **Junior**/**Intern** roles in **RU** / remote **Worldwide**, **startups** welcomes!
 📫 vicsergeevrov@icloud.com | Telegram @vs_rov
 
 <!---
