@@ -1,8 +1,8 @@
-### Coder • Rostov-on-Don, RU
-👋 Hi, I'm Vic — former ground operations manager (Civil aviation) turned developer.
-Passionate about building apps for astronomy and aviation enthusiasts. Currently honing skills in Golang.
+### DevOps • Rostov-on-Don, RU
+👋 Hi, I'm Vic — transitioning from ground operations (civil aviation) into DevOps.
+Focused on infrastructure, automation, CI/CD and reliability.
 
-📫 vicsergeevrov@icloud.com | Telegram @vs_rov
+📫 vicsergeevrov@icloud.com | Telegram @victhegeek
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
