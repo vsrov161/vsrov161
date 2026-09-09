@@ -1,6 +1,6 @@
 ### DevOps • Rostov-on-Don, RU
 👋 Hi, I'm Vic — transitioning from ground operations (civil aviation) into DevOps.
-Focused on infrastructure, automation, CI/CD and reliability.
+Focused on troubleshooting, infrastructure, automation, CI/CD and reliability.
 
 📫 vicsergeevrov@icloud.com | Telegram @victhegeek
 
