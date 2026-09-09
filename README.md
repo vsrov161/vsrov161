@@ -2,7 +2,7 @@
 👋 Hi, I'm Vic — transitioning from ground operations (civil aviation) into DevOps.
 Focused on troubleshooting, infrastructure, automation, CI/CD and reliability.
 
-📫 vsrov161@gmail.com | Telegram @victhegeek
+📫 vsrov161@gmail.com | Telegram @vsrov_161
 
 <!---
 VicSergeev/VicSergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
